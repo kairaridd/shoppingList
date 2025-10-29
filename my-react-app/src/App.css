@@ -1,0 +1,15 @@
+.individual-item{
+    outline: 5px solid slategrey;
+    background-color: gainsboro;
+    
+    border-radius: 10px;
+    
+    
+}
+
+
+
+button{
+    margin-bottom: 0px;
+}
+
